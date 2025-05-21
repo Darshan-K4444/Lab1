@@ -1,7 +1,6 @@
 math.h
 #include<stdio.h>
 int main()
-{
-	printf("Program");
+{	printf("Program");//commented
 	return 0;
 }
